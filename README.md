@@ -4,9 +4,7 @@
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
-也可以通过微信联系我。
-
-![微信](https://github.com/Brucepk/pk.github.io/blob/master/pkwx.jpg)
+#### 公众号里提供了我的微信，可以联系到我。
 
 还记得读高中时，有一次和同学一次去网吧上网，他让我看一个视频，是 Michael Jackson 的前倾 45° 的动作，当时觉得舞蹈还可以这样跳，太炫酷了。那时在网吧看了 2 小时 MJ 的舞蹈。此后就迷上了 MJ，迷上了他的太空步，迷上了他的机械舞，迷上了他的超强节奏律动的歌曲，成为了小小的 MJFans。那时为了备战高考，我和这位同学一起在学校附近住了一间房间，那时镇上的房租也很便宜。学习累了，就一起在 MJ 的歌曲中练练太空步，乐此不疲。
 
