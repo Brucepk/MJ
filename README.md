@@ -21,10 +21,10 @@
 视频效果请在原文查看，[点击这里](https://mp.weixin.qq.com/s?__biz=MzU4NjUxMDk5Mg==&mid=2247483989&idx=1&sn=f8ec135d689b842e2f5a82fe82c9d38a&chksm=fdfb65aaca8cecbc03a40abaf8ab8001d5e44bdf150f2303b68b6ba474de9dae442c84c4bd99&token=1092009955&lang=zh_CN#rd)
 
 #### 本文代码组成部分
- > image2txt.py  图片转换为编码功能
- > getImage.py   把视频按照帧数截图，多张图
- > go.py         调用上面两个程序，运行主程序
- > mj.mp4        我自己剪切的MJ的舞动视频
- > mjimages      我根据我的视频提取的视频里的150帧图片
- > mjtxt         根据上面提取的150帧图片，把图片转换为相同形状的字符编码
+###### image2txt.py  图片转换为编码功能
+###### getImage.py   把视频按照帧数截图，多张图
+###### go.py         调用上面两个程序，运行主程序
+###### mj.mp4        我自己剪切的MJ的舞动视频
+###### mjimages      我根据我的视频提取的视频里的150帧图片
+###### mjtxt         根据上面提取的150帧图片，把图片转换为相同形状的字符编码
  
